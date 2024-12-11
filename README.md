@@ -93,5 +93,3 @@ The location of xscreensaver binaries can vary depending on the distribution and
 
 - [xwinwrap GitHub Repository](https://github.com/mmhobi7/xwinwrap)
 - [xscreensaver Package](https://packages.ubuntu.com/xscreensaver)
-
-```
